@@ -1,0 +1,110 @@
+<?php
+\
+#
+Version
+2.3
+0.0
+
+$lang["auto_backup_options_updated"] = "Options de sauvegarde automatique mises à jour"
+\
+# Étiquettes
+$lang['label_bottle'] = 'Bouteille'
+$lang["label_bottle_new"] = "Nouvelle Bouteille"
+$lang["label_bottle_name"] = "Nom de la Bouteille"
+
+$lang["label_cork"] = "Bouchon"
+$lang["label_cork_new"] = "Nouveau Bouchon"
+$lang["label_cork_name"] = "Nom du Bouchon"
+
+$lang["label_capsule"] = "Capsule"
+$lang["label_capsule_new"] = "Nouvelle Capsule"
+$lang["label_capsule_name"] = "Nom de la Capsule"
+
+$lang["label_cage"] = "Cage"
+$lang["label_cage_new"] = "Nouvelle Cage"
+$lang["label_cage_name"] = "Nom de la Cage"
+
+$lang["label_container"] = "Conteneur"
+$lang["label_container_new"] = "Nouveau Conteneur"
+$lang["label_container_name"] = "Nom du Conteneur"
+
+$lang["qr_alise"] = "Alias URL de la carte"
+$lang["qr_company_name"] = "Nom de l'Entreprise"
+$lang["qr_address"] = "Adresse"
+$lang["qr_city"] = "Ville"
+$lang["qr_zip"] = "Code Postal"
+$lang["qr_state"] = "État"
+$lang["qr_tel"] = "Tél."
+$lang["qr_site"] = "Site"
+$lang["qr_email"] = "E-mail"
+$lang["qr_save"] = "Enregistrer"
+$lang["qr_settings"] = "Paramètres"
+
+$lang["qr_create_new"] = "Créer Nouveau"
+$lang["qr_label_list"] = "Liste des Étiquettes"
+$lang["qr_id"] = "ID"
+$lang["qr_picture"] = "Image"
+$lang["qr_name"] = "Nom"
+$lang["qr_lot"] = "LOT"
+$lang["qr_date_create"] = "Date de Création"
+$lang["qr_published"] = "Publié"
+$lang["qr_status"] = "Statut"
+$lang["qr_action"] = "Action"
+
+$lang["qr_add_label"] = "Ajouter une Étiquette"
+$lang["qr_wine_name"] = "Nom du Vin"
+$lang["qr_grape"] = "Cépage"
+$lang["qr_vintage"] = "Millésime"
+$lang["qr_alchool"] = "Degré d'Alcool"
+$lang["qr_serve"] = "Servir à"
+$lang["qr_desc"] = "Description"
+$lang["qr_char"] = "Caractéristiques"
+$lang["qr_testing"] = "Note de Dégustation"
+$lang["qr_color"] = "Couleur"
+$lang["qr_pairing"] = "Accords"
+$lang["qr_scent"] = "Arôme/Goût"
+
+$lang["qr_close"] = "Fermer"
+$lang["qr_lab_det"] = "Détails de l'Étiquette"
+$lang["qr_code"] = "Qrcode"
+$lang["qr_nutri"] = "Nutrition"
+$lang["qr_kcal"] = "Kcal"
+$lang["qr_kj"] = "Kj"
+$lang["qr_grassi"] = "Lipides"
+$lang["qr_asidi"] = "Acides Gras Saturés"
+$lang["qr_cardo"] = "Glucides"
+$lang["qr_zuccheri"] = "Sucres"
+$lang["qr_proteine"] = "Protéines"
+$lang["qr_sale"] = "Sel"
+$lang["qr_ingredient"] = "Ingrédients Normaux"
+$lang["qr_preseravatives"] = "Conservateurs et Antioxydants"
+
+$lang["qr_recycling"] = "Recyclage"
+$lang["qr_ingre"] = "Ingrédient"
+$lang["qr_ingredient_normal"] = "Ingrédients normaux"
+
+$lang["qr_plan"] = "PLAN ACTUEL"
+$lang["qr_intermdio"] = "INTERMÉDIAIRE"
+$lang["qr_bottle_size"] = "Taille de Bouteille"
+$lang["qr_batch"] = "Lot"
+$lang["qr_primary_info"] = "Informations Principales"
+$lang["qr_nutritonal_info"] = "INFORMATIONS NUTRITIONNELLES"
+$lang["qr_testing_note"] = "NOTE DE DÉGUSTATION"
+$lang["qr_avg_value"] = "VALEURS MOYENNES"
+$lang["qr_per_ml"] = "POUR 100ML"
+$lang["qr_energy_val"] = "Valeurs Énergétiques"
+$lang["qr_fat"] = "Lipides"
+$lang["qr_sat_fat"] = "- dont: acides gras saturés"
+$lang["qr_carbon"] = "Glucides"
+$lang["qr_suger"] = "- dont: sucres"
+$lang["qr_protin"] = "Protéines"
+$lang["qr_salt"] = "Sel"
+$lang["qr_conservante"] = "CONSERVATEURS/STABILISANTS"
+$lang["qr_stabilizante"] = "STABILISANT"
+$lang["qr_instruction"] = "INSTRUCTIONS POUR UNE ÉLIMINATION CORRECTE"
+
+$lang["qr_material"] = "Matériau"
+$lang["qr_cd"] = "Code"
+$lang["qr_packaging"] = "Emballage"
+$lang["qr_wine_cork"] = "Cage de Bouchon de Vin"
+$lang["qr_warning_notic"] = "Vous devez d'abord mettre à jour les paramètres."
